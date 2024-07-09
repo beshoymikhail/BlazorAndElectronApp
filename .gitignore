@@ -1,0 +1,51 @@
+# Ignore Visual Studio Code files
+.vscode/
+.vs
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore NuGet packages
+*.nupkg
+
+# Ignore user-specific files
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Ignore logs and databases
+*.log
+*.sqlite
+
+# Ignore Blazor output
+**/wwwroot/_content/
+
+# Ignore .NET build artifacts
+*.dll
+*.pdb
+*.exe
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore .NET user-specific files
+*.user
+*.userprefs
+*.suo
+
+# Ignore Rider specific files
+.idea/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore environment-specific settings
+.env
+
+# Ignore Visual Studio 2022 cache/options directory
+.vs/
