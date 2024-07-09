@@ -19,4 +19,4 @@ BlazorElectronApp is a project that combines Blazor, Microsoft's modern web fram
    git clone https://github.com/yourusername/BlazorElectronApp.git
    cd BlazorElectronApp
    dotnet restore
-  dotnet build
+   dotnet build
