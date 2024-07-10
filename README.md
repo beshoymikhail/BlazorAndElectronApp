@@ -1,3 +1,4 @@
+!["Portfolio Website"](https://raw.githubusercontent.com/beshoymikhail/BlazorAndElectronApp/blob/main/wwwroot/blazor-electron-demo-1.png)
 # BlazorElectronApp
 
 ## Overview
